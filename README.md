@@ -7,7 +7,7 @@ Login Page :-
 
 
 Home Page:-It Covers every activity of Library through home page. 
-Screenshot 09-10-2022 13 27 35![189474803-3373b530-621a-45f8-8750-102f296cde95](https://user-images.githubusercontent.com/116420566/197752580-16f48fab-7978-4f60-9c4f-d8d6f7fb107d.png)
+![189474803-3373b530-621a-45f8-8750-102f296cde95](https://user-images.githubusercontent.com/116420566/197752580-16f48fab-7978-4f60-9c4f-d8d6f7fb107d.png)
 
 Manage Books Page:-
 ![189474817-ed700f37-b424-4b95-b8b7-ef4b1f744081](https://user-images.githubusercontent.com/116420566/197752701-e5becef2-9b5c-49e3-83c7-ba7041810f64.png)
